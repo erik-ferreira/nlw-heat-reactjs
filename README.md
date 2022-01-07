@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-    <img src=".github/nlw-heat.png" width="100%">
+    <img src=".github/nlw-heat.jpg" width="100%">
 </p>
 
 ## :rocket: Tecnologias
